@@ -1,6 +1,6 @@
 ## Hi, I'm Nathaniel (he/him) ( *・∀・)ノ゛
 
-I'm a student at USC studying Computer Science. I'm currently an intern at Advantest working on the next gen of semiconductor ATE. I love working on nifty little projects like languages and AI and have experience in C++, Java, Python, SQL and a host of other cool tech.
+I'm a student at USC studying Computer Science. I'm an incoming intern at Bloomberg for Summer 2025. I love working on nifty little projects like languages and AI and have experience in C++, Java, Python, SQL and a host of other cool tech.
 
 ## Where you can find me:
 - Send me an email at nlj@usc.edu!
